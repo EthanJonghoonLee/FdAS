@@ -47,12 +47,12 @@
     "grades": {
       "type": "hasMany",
       "model": "grade",
-      "foreignKey": "valuerId"
+      "foreignKey": "feedId"
     },
     "replies": {
       "type": "hasMany",
       "model": "reply",
-      "foreignKey": "authorId"
+      "foreignKey": "feedId"
     }
   },
   "acls": [

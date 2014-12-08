@@ -30,17 +30,17 @@
     "services": {
       "type": "hasMany",
       "model": "service",
-      "foreignKey": "ownerId"
+      "foreignKey": "userId"
     },
     "grades": {
       "type": "hasMany",
       "model": "grade",
-      "foreignKey": "valuerId"
+      "foreignKey": "userId"
     },
     "replies": {
       "type": "hasMany",
       "model": "reply",
-      "foreignKey": "authorId"
+      "foreignKey": "userId"
     }
   },
   "acls": [],
