@@ -6,7 +6,7 @@ var Service = server.models.service;
 var services = [
   {
     id: '1',
-    userID: '1',
+    userId: '1',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -19,7 +19,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '2',
-    userID: '2',
+    userId: '2',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -32,7 +32,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '3',
-    userID: '1',
+    userId: '1',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -45,7 +45,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '4',
-    userID: '3',
+    userId: '3',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -58,7 +58,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '5',
-    userID: '2',
+    userId: '2',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -71,7 +71,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '6',
-    userID: '1',
+    userId: '1',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -84,7 +84,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '7',
-    userID: '2',
+    userId: '2',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -97,7 +97,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '8',
-    userID: '1',
+    userId: '1',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -110,7 +110,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '9',
-    userID: '3',
+    userId: '3',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
@@ -123,7 +123,7 @@ var services = [
     image: 'http://www.bokjiro.go.kr/img/2014/img_life01.gif'
   }, {
     id: '10',
-    userID: '2',
+    userId: '2',
     category: "bokji",
     agency: 'bokjiro.go.kr',
     location: 'seoul',
